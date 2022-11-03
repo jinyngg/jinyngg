@@ -4,8 +4,18 @@
 
 <!-- capsule-render -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=John's%20Github&fontSize=90)
+
+<br/>
   
-📚Tech📚
+<br/>
+  
+안녕하세요. Back-End를 공부하고있는 John입니다.
+대학교 졸업 후 **mcnc**에서 서버 개발자로 일하고있습니다.
+  
+<h3>📚Tech📚</h3>
+
+<br/>
+
   
 🛠Studying🛠
 
@@ -14,7 +24,7 @@
 
 🎨SNS🎨
   
-[![Blog Badge](http://img.shields.io/badge/-Blog-lightgreen?style=flat-square&logo=Naver&link=https://blog.naver.com/jinyngg)](https://blog.naver.com/jinyngg) [![Velog Badge](http://img.shields.io/badge/-Velog-Yellow?style=flat-square&logo=Velog&link=https://velog.io/@jinyngg)](https://velog.io/@jinyngg) [![Instagram Badge](http://img.shields.io/badge/-Insta-pink?style=flat-square&logo=Instagram&link=https://www.instagram.com/)](https://www.instagram.com/)
+[![Blog Badge](http://img.shields.io/badge/-Blog-lightgreen?style=flat-square&logo=Naver&link=https://blog.naver.com/jinyngg)](https://blog.naver.com/jinyngg) [![Velog Badge](http://img.shields.io/badge/-Velog-yellow?style=flat-square&logo=Velog&link=https://velog.io/@jinyngg)](https://velog.io/@jinyngg) [![Instagram Badge](http://img.shields.io/badge/-Insta-pink?style=flat-square&logo=Instagram&link=https://www.instagram.com/)](https://www.instagram.com/)
   
 </div>
 <!-- # # # # # center alignment END -->
@@ -29,5 +39,5 @@
 <!---
 jinyngg/jinyngg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 -->
