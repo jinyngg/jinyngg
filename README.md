@@ -12,7 +12,7 @@
 
 ✨SNS✨
   
-<img src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=20C997&logoColor=white&logo=https://velog.io/@jinyngg"/> <img src="https://img.shields.io/badge/Blog-lightgreen?style=flat-square&logo=03C75A&logoColor=white&logo=https://blog.naver.com/jinyngg"/>
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&link=https://velog.io/@jinyngg)](https://velog.io/@jinyngg) <img src="https://img.shields.io/badge/Blog-lightgreen?style=flat-square&logo=03C75A&logoColor=white&logo=https://blog.naver.com/jinyngg"/> [![Instagram Badge](http://img.shields.io/badge/-Insta-pink?style=flat-square&link=https://www.instagram.com/)](https://www.instagram.com/)
   
 </div>
 <!-- # # # # # center alignment END -->
