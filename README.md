@@ -5,7 +5,7 @@
 <div align="center">
   
 <!-- badge test -->
-<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20boot-green?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20boot-green?style=flat-square&logo=SpringBoot&logoColor=white"/>
   
 </div>
 <!-- # # # # # center alignment END -->
