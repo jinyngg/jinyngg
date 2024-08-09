@@ -1,3 +1,13 @@
+#### 👋 about me 
+- 백엔드 개발자 **장진영**입니다.
+- 가독성을 높인 코드로 유지보수와 협업이 쉬운 개발을 지향합니다.
+- 개발한 내용을 공유하며 지식을 나누고, 이를 통해 성장과 학습을 지속합니다.
+
+#### 📝 post
+- [[Hibernate] Migration of 5.4.32.FINAL to 6.5.2.FINAL ISSUE](https://jinyngg.tistory.com/37)
+- [[아파트너] 웹 알림 구현, 스프링 이벤트 리스너 트랜잭션 전파 속성과 @TransactionalEventListener](https://jinyngg.tistory.com/33)
+- [[펫누리] Ranking Algorithm를 통한 인기순 조회 구현(with. View Table)](https://jinyngg.tistory.com/23)
+
 
 <!-- center alignment START # # # # # -->
 <div align="center">
