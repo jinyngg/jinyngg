@@ -8,6 +8,7 @@
 - [[Hibernate] Migration of 5.4.32.FINAL to 6.5.2.FINAL ISSUE](https://jinyngg.tistory.com/37)
 - [[아파트너] 웹 알림 구현, 스프링 이벤트 리스너 트랜잭션 전파 속성과 @TransactionalEventListener](https://jinyngg.tistory.com/33)
 - [[펫누리] Ranking Algorithm를 통한 인기순 조회 구현(with. View Table)](https://jinyngg.tistory.com/23)
+- [[KISA] 사물인터넷 제품 보안 인증 (with. Checkmarx)](https://jinyngg.tistory.com/9)
 
 
 
