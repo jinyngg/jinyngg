@@ -4,9 +4,24 @@
 - 개발한 내용을 공유하며 지식을 나누고, 이를 통해 성장과 학습을 지속합니다.
 
 #### 📝 post
+- [[주라벨] @FeignClient 유연한 소셜 로그인 구현 (with. 카카오)](https://jinyngg.tistory.com/40)
 - [[Hibernate] Migration of 5.4.32.FINAL to 6.5.2.FINAL ISSUE](https://jinyngg.tistory.com/37)
 - [[아파트너] 웹 알림 구현, 스프링 이벤트 리스너 트랜잭션 전파 속성과 @TransactionalEventListener](https://jinyngg.tistory.com/33)
 - [[펫누리] Ranking Algorithm를 통한 인기순 조회 구현(with. View Table)](https://jinyngg.tistory.com/23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- center alignment START # # # # # -->
@@ -17,29 +32,6 @@
   -->
 <!-- @TODO
 
-<br/>
-  
-<br/>
-  
-<h3>✨Welcome✨</h3>
-<br/>
-
-
-안녕하세요. Back-End를 공부하고있는 장진영입니다..
-<br/>
-
-  
-<br/>
-<br/>
-  <h2></h2>
-<br/>
-  
-<h3>📚Tech📚</h3>
-
-<br/>
-
-  
-🛠Studying🛠
 -->
   
 
