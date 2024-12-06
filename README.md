@@ -58,3 +58,11 @@ jinyngg/jinyngg is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 
 -->
+
+![ajji](https://github.com/user-attachments/assets/bcf2a07f-a923-41a4-8182-411c2d2c669c)
+
+<-- 
+
+
+
+--> 
