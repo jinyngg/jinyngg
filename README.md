@@ -5,11 +5,11 @@
 
 #### 📝 post
 
-- [[Spring] 전시 티켓 환불 로직 개선기](https://dev5.tistory.com/3)
+- [[Spring] 전시 티켓 환불 로직 개선기](https://jinyngg.tistory.com/46)
+- [[Hibernate] Migration of 5.4.32.FINAL to 6.5.2.FINAL ISSUE](https://jinyngg.tistory.com/37)
 
 <!--
 - [[주라벨] @FeignClient 유연한 소셜 로그인 구현 (with. 카카오)](https://jinyngg.tistory.com/40)
-- [[Hibernate] Migration of 5.4.32.FINAL to 6.5.2.FINAL ISSUE](https://jinyngg.tistory.com/37)
 - [[아파트너] 웹 알림 구현, 스프링 이벤트 리스너 트랜잭션 전파 속성과 @TransactionalEventListener](https://jinyngg.tistory.com/33)
 - [[펫누리] Ranking Algorithm를 통한 인기순 조회 구현(with. View Table)](https://jinyngg.tistory.com/23)
 - [[KISA] 사물인터넷 제품 보안 인증 (with. Checkmarx)](https://jinyngg.tistory.com/9)
