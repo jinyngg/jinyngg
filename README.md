@@ -7,6 +7,7 @@
 
 - [[Spring] 전시 티켓 환불 로직 개선기](https://jinyngg.tistory.com/46)
 - [[Hibernate] Migration of 5.4.32.FINAL to 6.5.2.FINAL ISSUE](https://jinyngg.tistory.com/37)
+- [[KISA] 스마트홈IoT 도어락 사물인터넷 제품 보안 인증 (with. Checkmarx)](https://jinyngg.tistory.com/9)
 
 <!--
 - [[주라벨] @FeignClient 유연한 소셜 로그인 구현 (with. 카카오)](https://jinyngg.tistory.com/40)
